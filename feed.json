@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://djharrisonripps.micro.blog/2026/11/04/walked-to-the-office-from.html",
+				
+				"content_html": "<p>Walked to the office from the apartment today. Felt an inextricable lightness. Clear skies here in Sweden, massive change in the political landscape in the United States.</p>\n<img src=\"uploads/2026/img-2555.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Walked to the office from the apartment today. Felt an inextricable lightness. Clear skies here in Sweden, massive change in the political landscape in the United States.\n\n<img src=\"uploads/2026/img-2555.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-11-04T14:49:55+01:00",
+				"url": "https://harrisonripps.com/2026/11/04/walked-to-the-office-from.html",
+				"tags": ["Posts"]
+			},
+			{
 				"id": "http://djharrisonripps.micro.blog/2026/11/01/hey-microbloggers-with-claudes-help.html",
 				
 				"content_html": "<p>Hey micro.bloggers! With claude&rsquo;s help I&rsquo;ve ported the <a href=\"https://blowfish.page\">Blowfish</a> hugo theme to micro.blog and registered it as a <a href=\"https://micro.blog/account/plugins/view/187\">plugin</a>. <a href=\"https://github.com/nhr/blowfish-microblog/issues\">File an issue</a> or DM me if you run into any problems. Thanks to <a href=\"https://micro.blog/manton\">@manton</a> for the pointers!</p>\n<img src=\"uploads/2026/screenshot.jpg\">\n",
